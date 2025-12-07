@@ -1,1 +1,62 @@
-[{"id":"feature-demo","name":"Feature Demo","description":"Comprehensive demo of all MBridge features","icon":"🚀","color":"#007bff","zipName":"v1","version":"1.0.0","author":"Development Team"},{"id":"camera-app","name":"Camera Pro","description":"Advanced camera functionality and photo management","icon":"📸","color":"#28a745","zipName":"v1","version":"1.2.1","author":"Photo Team"},{"id":"file-manager","name":"File Explorer","description":"Complete file system management tools","icon":"📁","color":"#ffc107","zipName":"v1","version":"2.0.0","author":"System Team"},{"id":"device-info","name":"Device Scanner","description":"Detailed device and system information","icon":"📱","color":"#17a2b8","zipName":"v1","version":"1.1.0","author":"Hardware Team"},{"id":"share-hub","name":"Share Hub","description":"Social sharing and clipboard management","icon":"🔗","color":"#6f42c1","zipName":"v1","version":"1.0.5","author":"Social Team"},{"id":"network-tools","name":"Network Monitor","description":"Network connectivity and status monitoring","icon":"🌐","color":"#fd7e14","zipName":"v1","version":"1.3.0","author":"Network Team"}]
+[
+  {
+    "id": "feature-demo",
+    "name": "Feature Demo",
+    "description": "Comprehensive demo of all MBridge features",
+    "icon": "🚀",
+    "color": "#007bff",
+    "zipName": "v2",
+    "version": "1.0.0",
+    "author": "Development Team"
+  },
+  {
+    "id": "camera-app",
+    "name": "Camera Pro",
+    "description": "Advanced camera functionality and photo management",
+    "icon": "📸",
+    "color": "#28a745",
+    "zipName": "v2",
+    "version": "1.2.1",
+    "author": "Photo Team"
+  },
+  {
+    "id": "file-manager",
+    "name": "File Explorer",
+    "description": "Complete file system management tools",
+    "icon": "📁",
+    "color": "#ffc107",
+    "zipName": "v2",
+    "version": "2.0.0",
+    "author": "System Team"
+  },
+  {
+    "id": "device-info",
+    "name": "Device Scanner",
+    "description": "Detailed device and system information",
+    "icon": "📱",
+    "color": "#17a2b8",
+    "zipName": "v2",
+    "version": "1.1.0",
+    "author": "Hardware Team"
+  },
+  {
+    "id": "share-hub",
+    "name": "Share Hub",
+    "description": "Social sharing and clipboard management",
+    "icon": "🔗",
+    "color": "#6f42c1",
+    "zipName": "v2",
+    "version": "1.0.5",
+    "author": "Social Team"
+  },
+  {
+    "id": "network-tools",
+    "name": "Network Monitor",
+    "description": "Network connectivity and status monitoring",
+    "icon": "🌐",
+    "color": "#fd7e14",
+    "zipName": "v2",
+    "version": "1.3.0",
+    "author": "Network Team"
+  }
+]
