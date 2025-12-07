@@ -5,7 +5,7 @@
     "description": "Comprehensive demo of all MBridge features",
     "icon": "🚀",
     "color": "#007bff",
-    "zipName": "v5",
+    "zipName": "v6",
     "version": "1.0.0",
     "author": "Development Team"
   },
@@ -15,7 +15,7 @@
     "description": "Advanced camera functionality and photo management",
     "icon": "📸",
     "color": "#28a745",
-    "zipName": "v5",
+    "zipName": "v6",
     "version": "1.2.1",
     "author": "Photo Team"
   },
@@ -25,7 +25,7 @@
     "description": "Complete file system management tools",
     "icon": "📁",
     "color": "#ffc107",
-    "zipName": "v5",
+    "zipName": "v6",
     "version": "2.0.0",
     "author": "System Team"
   },
@@ -35,7 +35,7 @@
     "description": "Detailed device and system information",
     "icon": "📱",
     "color": "#17a2b8",
-    "zipName": "v5",
+    "zipName": "v6",
     "version": "1.1.0",
     "author": "Hardware Team"
   },
@@ -45,7 +45,7 @@
     "description": "Social sharing and clipboard management",
     "icon": "🔗",
     "color": "#6f42c1",
-    "zipName": "v5",
+    "zipName": "v6",
     "version": "1.0.5",
     "author": "Social Team"
   },
@@ -55,7 +55,7 @@
     "description": "Network connectivity and status monitoring",
     "icon": "🌐",
     "color": "#fd7e14",
-    "zipName": "v5",
+    "zipName": "v6",
     "version": "1.3.0",
     "author": "Network Team"
   }
